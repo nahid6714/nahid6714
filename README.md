@@ -1,33 +1,36 @@
-# 👋 Hi, I'm Nahid Hossain
+<p align="center">
+  <img src="banner.png" alt="Nahid Hossain Banner" width="100%">
+</p>
 
-## 🚀 AI-Assisted Android & Web Developer
+<h1 align="center">Hi 👋 I'm Nahid Hossain</h1>
 
-I build modern Android applications and websites using AI-assisted development with Kotlin, Jetpack Compose, Firebase, and modern web technologies.
-
----
-
-## 🛠️ Skills
-
-- 📱 Android Development
-- 🤖 AI-Assisted Development
-- 💚 Kotlin
-- 🎨 Jetpack Compose
-- 🔥 Firebase
-- 🗄️ Room Database
-- 🌐 HTML, CSS, TypeScript
-- 🐙 Git & GitHub
+<h3 align="center">
+AI-Assisted Android & Web Developer from Bangladesh
+</h3>
 
 ---
 
-## 📌 Featured Projects
+## 👨‍💻 About Me
+
+- 📱 I build modern Android apps using **Kotlin** & **Jetpack Compose**
+- 🌐 I create responsive websites with AI-assisted development
+- 🔥 Experienced with **Firebase**, **Room Database**, and **GitHub Actions**
+- 🤖 I use AI tools to speed up development while maintaining clean UI and functionality
+- 🚀 Always learning and building new projects
+
+---
+
+## 🚀 Featured Projects
 
 ### 📱 Digital Tools Hub
-A modern Android utility application featuring:
-- Food Bill Memo
-- Smart Document Scanner
-- ID Card Scanner
-- PDF Export
-- Printing Support
+An all-in-one productivity application featuring:
+
+- 🍽️ Food Bill Manager
+- 📄 Smart Document Scanner
+- 🪪 NID & ID Card Scanner
+- 🖨️ PDF Export & Printing
+- 💾 Local Storage
+- 🎨 Modern Material Design UI
 
 ---
 
@@ -35,22 +38,33 @@ A modern Android utility application featuring:
 
 Beauty & Cosmetics Website
 
-🌐 Live Demo:
+🌐 **Live Website**
+
 https://anysbeautycorner.netlify.app
 
 ---
 
-### 📚 Edu Library
+## 🛠 Tech Stack
 
-Educational resources and study management project.
+- Kotlin
+- Jetpack Compose
+- Firebase
+- Room Database
+- GitHub
+- GitHub Actions
+- Android Studio
+- AI Assisted Development
 
 ---
 
-## 🌍 Connect With Me
+## 📫 Contact
 
-- GitHub: https://github.com/nahid6714
-- Website: https://anysbeautycorner.netlify.app
+GitHub:
+https://github.com/nahid6714
+
+Website:
+https://anysbeautycorner.netlify.app
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Thanks for visiting my profile!
