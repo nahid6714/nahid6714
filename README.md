@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Nahid Hossain
 
-<!--
-**nahid6714/nahid6714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI-Assisted Android & Web Developer
 
-Here are some ideas to get you started:
+I build modern Android applications and websites using AI-assisted development with Kotlin, Jetpack Compose, Firebase, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- 📱 Android Development
+- 🤖 AI-Assisted Development
+- 💚 Kotlin
+- 🎨 Jetpack Compose
+- 🔥 Firebase
+- 🗄️ Room Database
+- 🌐 HTML, CSS, TypeScript
+- 🐙 Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 📱 Digital Tools Hub
+A modern Android utility application featuring:
+- Food Bill Memo
+- Smart Document Scanner
+- ID Card Scanner
+- PDF Export
+- Printing Support
+
+---
+
+### 💄 Any's Beauty Corner
+
+Beauty & Cosmetics Website
+
+🌐 Live Demo:
+https://anysbeautycorner.netlify.app
+
+---
+
+### 📚 Edu Library
+
+Educational resources and study management project.
+
+---
+
+## 🌍 Connect With Me
+
+- GitHub: https://github.com/nahid6714
+- Website: https://anysbeautycorner.netlify.app
+
+---
+
+⭐ Thank you for visiting my profile!
